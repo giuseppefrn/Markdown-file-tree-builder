@@ -16,8 +16,6 @@ Simple python script that automatically builds a tree structure (with links) of 
 &#128193; <a href=#>Markdown-file-tree-builder</a>
    &#x1F5CE; <a href=./README.md>README.md</a>
    &#x1F5CE; <a href=./markdown_file_tree.py>markdown_file_tree.py</a>
-   &#x1F5CE; <a href=./main.py>main.py</a>
-   &#x1F5CE; <a href=./index.md>index.md</a>
 </pre>
 
 
